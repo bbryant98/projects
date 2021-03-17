@@ -1,2 +1,3 @@
 # projects
-Sandbox space for new and old ideas
+
+I am learning the github space by following the tutorial and writing down something to fill in this readme
